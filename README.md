@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Segmentation Project
 
 ## Overview
@@ -34,3 +35,7 @@ Identified 4 customer segments:
 
 ## Author
 Amruta — B.Tech AI & Data Science, KKWagh Institute
+=======
+# segmentation-project
+ Customer segmentation using K-Means clustering — Thiranex Internship Task
+>>>>>>> e6ae19cebc616633056362a7074dd9aa9fec50a0
